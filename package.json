@@ -1,0 +1,46 @@
+{
+  "name": "KimimaruBase",
+  "version": "0.0.1",
+  "description": "Base_aqulz",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "MUHAMMAD-JAMIL",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "awesome-phonenumber": "^2.52.0",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.2",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "emoji-api": "^1.0.2",
+    "fake-useragent": "^1.0.1",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "jsdom": "^16.6.0",
+    "moment-timezone": "^0.5.33",
+    "multistream": "^4.1.0",
+    "nekos.life": "^2.0.9",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.2",
+    "parse-ms": "^3.0.0",
+    "prompt-sync": "^4.2.0",
+    "qrcode": "^1.4.4",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "zs-extract": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimimarusadboy/base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kimimarusadboy/base/issues"
+  },
+  "homepage": "https://github.com/kimimarusadboy/base#readme"
+}
